@@ -2,10 +2,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=2800&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Ehsan+Ul+Haq+%F0%9F%91%8B;Software+Engineer+%7C+Full-Stack+Builder;COMSATS+University+Islamabad" alt="Typing SVG" />
 </h1>
 <p align="center">
-  <a href="https://linkedin.com/in/ehsanulhaq" target="_blank">
+  <a href="www.linkedin.com/in/ehsan-ul-haq-rind" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:ehsanulhaq@example.com">
+  <a href="ahsanrind01@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/ehsanulhaq" target="_blank">
@@ -121,10 +121,10 @@ Distributed Systems — Designing fault-tolerant, scalable architectures
 Advanced React Native — Skia-powered UI and complex gesture animations
 Let's Connect
 <p align="center">
-  <a href="https://linkedin.com/in/ehsanulhaq" target="_blank">
+  <a href="www.linkedin.com/in/ehsan-ul-haq-rind" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:ehsanulhaq@example.com">
+  <a href="ahsanrind01@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/ehsanulhaq" target="_blank">
