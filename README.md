@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=2800&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Ehsan+Ul+Haq+%F0%9F%91%8B;Software+Engineer+%7C+Full-Stack+Builder;COMSATS+University+Islamabad" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=28&duration=3000&pause=1000&color=0F172A&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Ehsan+Ul+Haq+%F0%9F%91%8B;Software+Engineer+%7C+Full-Stack+Developer;COMSATS+University+Islamabad+%F0%9F%8E%93" alt="Typing SVG" />
 </h1>
 <p align="center">
   <a href="www.linkedin.com/in/ehsan-ul-haq-rind" target="_blank">
