@@ -1,7 +1,7 @@
-<h1 align="center">Ahsan Rind</h1>
+<h1 align="center">Ehsan Ul Haq</h1>
 
 <p align="center">
-  <b>Full-Stack Software Engineer • Mobile • Backend • AI</b>
+  <strong>Full-Stack Software Engineer • Mobile • Backend • AI</strong>
 </p>
 
 <p align="center">
@@ -10,13 +10,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ehsan-ul-haq-rind">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:ahsanrind01@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/ahsanrind01">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -24,20 +24,62 @@
 
 # 👋 About Me
 
-I'm a Software Engineering student at **COMSATS University Islamabad** passionate about building scalable mobile applications, distributed backend systems, and AI-powered software.
+I'm a Software Engineering student at **COMSATS University Islamabad** passionate about building scalable software, distributed backend systems, and AI-powered applications.
 
-My primary stack is **React Native**, **Node.js**, and **TypeScript**. I enjoy designing production-inspired systems that emphasize scalability, maintainability, and clean engineering practices.
+My primary focus is **React Native**, **Node.js**, and **TypeScript**, with a strong interest in designing production-inspired architectures that emphasize scalability, maintainability, and clean engineering practices.
 
-I'm currently expanding into **AI Agents**, **LLM Engineering**, and **Distributed Systems**.
+Currently, I'm exploring **AI Agents**, **LLM Engineering**, and modern distributed systems.
 
 ---
 
 # 🚀 Currently Working On
 
-- 🤖 AI Agents with OpenAI Agents SDK
-- 📱 React Native applications
-- ⚙️ Distributed backend systems
+- 🤖 AI Agents using the OpenAI Agents SDK
+- 📱 High-performance React Native applications
+- ⚙️ Event-driven backend systems
 - 🏗️ Microservice architectures
+
+---
+
+# 🚀 Featured Projects
+
+## 📈 NexusTrade
+
+A **production-inspired cryptocurrency trading platform** built to explore how modern exchanges are architected beyond traditional CRUD applications.
+
+### Highlights
+
+- 📱 React Native mobile application
+- ⚙️ 9 backend microservices
+- 📡 Apache Kafka event streaming
+- 💾 Redis-powered market data caching
+- 🗄️ PostgreSQL & MongoDB
+- 🔐 JWT Authentication
+- 🐳 Dockerized services
+
+**Tech**
+
+`React Native` • `Node.js` • `TypeScript` • `Kafka` • `Redis` • `PostgreSQL` • `MongoDB` • `Docker`
+
+---
+
+## 📅 Planora
+
+A **mobile-first service marketplace** connecting customers with local service providers.
+
+### Highlights
+
+- 📱 React Native + Expo
+- ⚙️ Node.js & Express backend
+- 💬 Real-time chat with Socket.IO
+- 💳 Stripe payments
+- 🔔 Push notifications
+- 👥 Role-based dashboards
+- 📷 Image upload pipeline
+
+**Tech**
+
+`React Native` • `Expo` • `Node.js` • `Express` • `MongoDB` • `Socket.IO` • `Stripe`
 
 ---
 
@@ -94,76 +136,26 @@ I'm currently expanding into **AI Agents**, **LLM Engineering**, and **Distribut
 
 ---
 
-# 🚀 Featured Projects
-
-## 📈 NexusTrade
-
-A **production-inspired cryptocurrency trading platform** built to explore how modern exchanges are architected beyond a traditional CRUD application.
-
-### Highlights
-
-- 📱 React Native mobile application
-- ⚙️ 9 microservices
-- 📡 Apache Kafka event streaming
-- 💾 Redis market data cache
-- 🗄 PostgreSQL & MongoDB
-- 🔐 JWT Authentication
-- 🐳 Dockerized services
-
-**Tech:** React Native • Node.js • TypeScript • Kafka • Redis • PostgreSQL • MongoDB • Docker
-
----
-
-## 📅 Planora
-
-A **mobile-first service marketplace** connecting customers with local service providers.
-
-### Highlights
-
-- 📱 React Native + Expo
-- ⚙️ Node.js & Express backend
-- 💬 Real-time chat with Socket.IO
-- 💳 Stripe payments
-- 🔔 Push notifications
-- 👥 Role-based dashboards
-- 📷 Image upload pipeline
-
-**Tech:** React Native • Expo • Node.js • Express • MongoDB • Socket.IO • Stripe • Zustand
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ahsanrind01&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahsanrind01&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 # 📫 Let's Connect
 
-I'm always interested in discussing software engineering, distributed systems, AI, open source, and exciting opportunities.
+I'm always interested in discussing software engineering, distributed systems, AI, open-source, and exciting opportunities.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ehsan-ul-haq-rind">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-
   <a href="mailto:ahsanrind01@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-
   <a href="https://github.com/ahsanrind01">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 <p align="center">
-  <i>Open to collaborations, freelance opportunities, and interesting technical discussions.</i>
+<i>Open to collaborations, freelance opportunities, and interesting technical discussions.</i>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=100&section=footer"/>
 </p>
