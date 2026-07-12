@@ -18,9 +18,7 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ehsanulhaq&color=2563EB&style=flat-square" alt="Profile Views" />
-</p>
+
 About Me
 I'm a Software Engineer based in Islamabad, Pakistan, currently studying at COMSATS University Islamabad. I architect and build production-grade applications spanning mobile, web, and distributed backend systems. My work sits at the intersection of clean code, system design, and user experience — whether it's a real-time trading engine or a service marketplace platform.
 I specialize in full-stack mobile development with React Native & Expo, event-driven backend architectures with Node.js, and I'm actively exploring the AI agents space with OpenAI's SDK to build autonomous, intelligent systems.
@@ -97,6 +95,7 @@ AI & Agents
   <img src="https://img.shields.io/badge/OpenAI_Agents_SDK-10A37F?style=flat-square&logo=openai&logoColor=white" alt="OpenAI Agents SDK" />
   <img src="https://img.shields.io/badge/AI_Agents-FF6F61?style=flat-square&logo=robotframework&logoColor=white" alt="AI Agents" />
 </p>
+
 Featured Projects
 NexusTrade
 Production-inspired cryptocurrency trading platform
@@ -114,6 +113,7 @@ Image upload pipeline with Multer and Expo Image Picker
 Event-driven notification system using Node.js EventEmitter
 React Native Expo Node.js Express MongoDB Socket.IO Stripe Zustand
 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ehsanulhaq&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehsanulhaq&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
