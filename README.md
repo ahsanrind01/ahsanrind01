@@ -34,7 +34,7 @@ Currently, I'm exploring **AI Agents**, **LLM Engineering**, and modern distribu
 
 # 🚀 Currently Working On
 
-- 🤖 AI Agents using the OpenAI Agents SDK
+- 🤖 AI Agents 
 - 📱 High-performance React Native applications
 - ⚙️ Event-driven backend systems
 - 🏗️ Microservice architectures
